@@ -60,7 +60,7 @@ void PrintArray (int [,] inArray)
     }
 }
 
-// возвращает строку с наименьшей суммой элементов
+// возвращает индекс строки с наименьшей суммой элементов
 
 int IndexRousWithMinSum (int[,] ourArray)
 {
